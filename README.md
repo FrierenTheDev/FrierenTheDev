@@ -1,6 +1,5 @@
-<!-- Banner görseli veya avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/FrierenTheDev?v=4" width="120" alt="FrierenTheDev" style="border-radius: 50%;"/>
+  <img src="https://media1.tenor.com/m/aXVFqv8KInAAAAAC/anime-frieren.gif" width="120" alt="FrierenTheDev" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hi, I'm FrierenTheDev 👋</h1>
