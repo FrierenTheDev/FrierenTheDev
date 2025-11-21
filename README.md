@@ -1,6 +1,6 @@
 <!-- Banner görseli veya avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" alt="FrierenTheDev" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/FrierenTheDev?v=4" width="120" alt="FrierenTheDev" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hi, I'm FrierenTheDev 👋</h1>
@@ -56,7 +56,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhjNDNoc3VkaGFybHcwMmR3a2pmeHlkaWJybTZ6MHVmNW11MmgxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E3EfSHJKiFqjt2Ijpu/giphy.gif" width="200" alt="Frieren anime gif"/>
+  <img src="https://media1.tenor.com/m/E1EW9pwYAz4AAAAC/frieren-anime.gif" width="200" alt="Frieren anime gif"/>
 </p>
 
 ---
