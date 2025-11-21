@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm FrierenTheDev 👋
 
-<!--
-**FrierenTheDev/FrierenTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Dreamer, developer, and always on a quest for new knowledge (and maybe a little magic).
 
-Here are some ideas to get you started:
+## 🧙‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate coder & anime enthusiast (yes, the nick is inspired by Frieren!).
+- Love to explore both fantasy worlds and real-life codebases.
+- Always striving to write code that stands the test of time.
+
+## 🗒️ Languages I Use
+
+- **Python** 🐍  
+- **Lua** 🦎 (for now!)
+
+### 🚀 Next on My Adventure List
+
+- **JavaScript**
+- **React**
+- **Golang**
+- **C#**
+- **C++**
+
+## 🤝 Let's Connect
+
+- Discord: `notugur`
+- Email: [notugur@proton.me](mailto:notugur@proton.me)
+
+---
+
+> “Longevity means always learning something new.” — Frieren
+
+---
+
+Feel free to reach out or drop a message—I'm always up for a chat, collaboration, or just geeking out about cool projects & ideas!
